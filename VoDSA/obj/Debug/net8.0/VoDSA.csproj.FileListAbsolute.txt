@@ -1,0 +1,15 @@
+C:\Users\Student-34\OneDrive\Documents\Dev\Assignments\DSAFundamentals\DSA-Fundamentals\VoDSA\obj\Debug\net8.0\VoDSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-34\OneDrive\Documents\Dev\Assignments\DSAFundamentals\DSA-Fundamentals\VoDSA\obj\Debug\net8.0\VoDSA.AssemblyInfoInputs.cache
+C:\Users\Student-34\OneDrive\Documents\Dev\Assignments\DSAFundamentals\DSA-Fundamentals\VoDSA\obj\Debug\net8.0\VoDSA.AssemblyInfo.cs
+C:\Users\Student-34\OneDrive\Documents\Dev\Assignments\DSAFundamentals\DSA-Fundamentals\VoDSA\obj\Debug\net8.0\VoDSA.csproj.CoreCompileInputs.cache
+C:\Users\Student-34\OneDrive\Documents\Dev\Assignments\DSAFundamentals\DSA-Fundamentals\VoDSA\obj\Debug\net8.0\VoDSA.sourcelink.json
+C:\Users\Student-34\OneDrive\Documents\Dev\Assignments\DSAFundamentals\DSA-Fundamentals\VoDSA\bin\Debug\net8.0\VoDSA.exe
+C:\Users\Student-34\OneDrive\Documents\Dev\Assignments\DSAFundamentals\DSA-Fundamentals\VoDSA\bin\Debug\net8.0\VoDSA.deps.json
+C:\Users\Student-34\OneDrive\Documents\Dev\Assignments\DSAFundamentals\DSA-Fundamentals\VoDSA\bin\Debug\net8.0\VoDSA.runtimeconfig.json
+C:\Users\Student-34\OneDrive\Documents\Dev\Assignments\DSAFundamentals\DSA-Fundamentals\VoDSA\bin\Debug\net8.0\VoDSA.dll
+C:\Users\Student-34\OneDrive\Documents\Dev\Assignments\DSAFundamentals\DSA-Fundamentals\VoDSA\bin\Debug\net8.0\VoDSA.pdb
+C:\Users\Student-34\OneDrive\Documents\Dev\Assignments\DSAFundamentals\DSA-Fundamentals\VoDSA\obj\Debug\net8.0\VoDSA.dll
+C:\Users\Student-34\OneDrive\Documents\Dev\Assignments\DSAFundamentals\DSA-Fundamentals\VoDSA\obj\Debug\net8.0\refint\VoDSA.dll
+C:\Users\Student-34\OneDrive\Documents\Dev\Assignments\DSAFundamentals\DSA-Fundamentals\VoDSA\obj\Debug\net8.0\VoDSA.pdb
+C:\Users\Student-34\OneDrive\Documents\Dev\Assignments\DSAFundamentals\DSA-Fundamentals\VoDSA\obj\Debug\net8.0\VoDSA.genruntimeconfig.cache
+C:\Users\Student-34\OneDrive\Documents\Dev\Assignments\DSAFundamentals\DSA-Fundamentals\VoDSA\obj\Debug\net8.0\ref\VoDSA.dll
